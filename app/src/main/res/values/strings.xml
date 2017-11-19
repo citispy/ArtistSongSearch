@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArtistSongSearch</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_name">Song Name</string>
+    <string name="by">by</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="genre">Genre</string>
+    <string name="play">Play Preview</string>
+    <string name="share">Share</string>
+    <string name="network_not_available">Network not available</string>
+    <string name="enter_artist">Please enter a artist name</string>
+    <string name="no_results">No results for that artist</string>
+    <string name="parsing_error">Parsing error</string>
+    <string name="request_failed">Request failed</string>
+</resources>
